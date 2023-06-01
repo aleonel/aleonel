@@ -13,7 +13,7 @@ Hobbies:
 
 One of my biggest hobbies is exploring the captivating world of the stock market. I find great joy in being able to participate in companies and speculate about their success. It amazes me how the stock market reflects the intricate dynamics of the economy, where both micro-level company performance and macro-level factors shape its movements. The market serves as a barometer for the collective sentiments, hopes, and fears of investors worldwide. It is truly fascinating to witness how various events, such as economic indicators, geopolitical developments, and technological advancements, can have a profound impact on stock prices and market trends. This deep interest in the stock market has inspired me to combine my passion for finance with my technical skills, leading me to develop my SaaS application that incorporates sentiment analysis to better understand the ever-changing landscape of stock news.
 
-Project:
+Current Project:
 
 I am currently working on an exciting project that aligns with my interests and the assignment requirements. My focus is on developing my first Software as a Service (SaaS) application. The aim of this project is to leverage the power of ChatGPT, a powerful language model, for sentiment analysis on stock news headlines.
 
