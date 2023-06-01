@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, GitHub community!
+Hello, GitHub community, I just learned to create my secret README for my profile. 
 
 I am excited to connect with all of you and share my latest projects and experiences. If you're interested in what I do and eager to explore my abilities, I encourage you to visit my website. It serves as a glimpse into my world of continuous learning and a platform where I strive to apply new technologies in creative ways.
 
