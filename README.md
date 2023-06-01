@@ -9,6 +9,14 @@ Efficiency is a core principle in everything I undertake. I not only focus on wr
 
 As I continue to expand my professional horizons, I am open to new learning opportunities and collaborations.
 
+I am currently working on an exciting project that aligns with my interests and the assignment requirements. My focus is on developing my first Software as a Service (SaaS) application. The aim of this project is to leverage the power of ChatGPT, a powerful language model, for sentiment analysis on stock news headlines.
+
+Considering my busy schedule due to work and study commitments, I often struggle to keep up with the latest stock news when it is released. To address this, I have devised a solution using ChatGPT to summarize headlines for me and perform sentiment analysis on each news article as it is published. While the API is still in development, I have already sketched out the frontend of the application, which can be accessed at https://bullishornot.com.
+
+To collect the necessary data, I am utilizing Python's requests library to scrape Yahoo's news page. This allows me to retrieve the headlines and links related to a specific stock on any given day. Once I have the link, I extract the text content of the article. Subsequently, I pass this text content to ChatGPT's official API using various prompts to obtain different results. For instance, I can generate a bullishness score ranging from 0 to 10 based on sentiment analysis performed by the Davinci003 model. Additionally, I obtain a concise description of the findings based on previous prompts and ChatGPT's generated responses.
+
+While the project is still in its beta phase, I am actively working on improving its functionality and performance. As the website version is not fully operational yet, I am currently exploring hosting options to run Python files effectively. Moreover, I am also recreating the same script in PHP to evaluate its viability. It's worth mentioning that this project is a work in progress, and I am dedicating time to refine and enhance it.
+
 Thank you for taking the time to explore my profile and projects. Let's connect, exchange ideas, and explore potential avenues for collaboration. Together, we can achieve something extraordinary!
 
 <!--
